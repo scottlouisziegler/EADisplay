@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>93-003</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Westbrook Free Lectureship Records, 1910-1990
+                    <num>WFIS.93-003</num>
+                </titleproper>
+                <titleproper type="filing">Westbrook Free Lectureship Records, 1910-1990</titleproper>
+                <author>Finding aid prepared by Aileen McNamara</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Wagner Free Institute of Science</publisher>
+                <address>
+                    <addressline>1700 W. Montgomery Ave.</addressline>
+                    <addressline>Philadelphia, PA, 19121</addressline>
+                    <addressline>215-763-6529 x12</addressline>
+                    <addressline>library@wagnerfreeinstitute.org</addressline>
+                </address>
+                <date>November 2007</date>
+            </publicationstmt>
+            <seriesstmt>
+                <p>Instruction; Administrative Records; Financial Records; Lecture Records</p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-10-30T11:15-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Westbrook Free Lectureship Records</unittitle>
+            <unitid>WFIS.93-003</unitid>
+            <repository>
+                <corpname>Wagner Free Institute of Science</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+                <extent>2 containers</extent>
+            </physdesc>
+            <unitdate normal="1912/1924" type="bulk">Bulk, 1912-1924</unitdate>
+            <unitdate normal="1910/1990" type="inclusive">1910-1990</unitdate>
+            <abstract id="ref130" label="Abstract">Richard Brodhead Westbrook (1820-1899) was a Trustee of the Wagner Free Institute of Science from 1884 until his death in 1899. In his will, he established an endowment for the Richard B. Westbrook Free Lectureship as a means to encourage open discourse on scientific subjects, especially 
+                <emph render="italic">disputed questions in science and the theories of Evolution. </emph> This collection contains correspondence, announcements, syllabi, notes and newspaper clippings relating to the Westbrook Free Lectureship from its beginning in 1912 through 1990. The Lecture Records series is the most in depth. Full text is available for the 1918 lecture, and notes and synopses are present for other years.</abstract>
+            <origination label="creator">
+                <corpname rules="dacs" source="naf">Wagner Free Institute of Science.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <userestrict id="ref2">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Library with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <odd id="ref8">
+            <head>Preservation/Conservation Notes</head>
+            <p>Some of the folders contain handwritten notes on very brittle, brown paper; these records were photocopied on acid free paper and placed with the originals.</p>
+            <p>Those items in folder 8 which were not already in envelopes were wrapped in folded sheets of micro-chamber paper; most of these records have mold.</p>
+            <p>Records in folder 11 (1913 Lecture) were humidified and flattened.</p>
+            <p>Papers in folders 17 and 23 have mold and are decomposing. The original lectures were photocopied on acid free paper to create use/preservation copies; the originals are interleaved with micro-chamber paper.</p>
+            <p>Papers in folders 27.2 and 28.2 are very brittle. The original records were photocopied on acid free paper to create use/preservation copies; the originals are interleaved with micro-chamber paper.</p>
+            <p>Folder 30 contains newspaper clippings. The original clippings were photocopied on acid free paper to create use/preservation copies; originals are encapsulated in Mylar.</p>
+        </odd>
+        <relatedmaterial id="ref7">
+            <head>Related Materials in the WFIS Archives</head>
+            <p>Collection 90-001, Wagner Free Institute of Science Director's Files, Instruction records series: Contains correspondence about the Westbrook Lectureship.</p>
+            <p>Collection 93-006, the Annual Announcement of the Wagner Free Institute of Science and collection 98-049, the Bulletin of the Wagner Free Institute of Science: contain descriptions of some of the Westbrook lectures.</p>
+        </relatedmaterial>
+        <bioghist id="ref6">
+            <head>Biographical Sketch of Richard Brodhead Westbrook</head>
+            <p>Richard Brodhead Westbrook was born February 8, 1820 in Pike County, Pennsylvania. By 1839 he had obtained a license to preach. At 21 he married Sara Hall; they had four children together. He remained a Methodist Episcopal preacher until 1852, but left the Methodist Church that year.</p>
+            <p>Beginning in 1853 Westbrook served as a Presbyterian pastor in Burlington, NJ. Around the same time he was awarded an honorary Master of Arts (A.M.) degree from Princeton University. In 1854 he was serving as the secretary of the American Sunday School Union. Westbrook received another honorary degree, Doctor of Divinity (D.D.), in 1860 from Washington College (Maryland). Three years later (1863) he received a degree in law from New York University and admittance to the New York State Bar. The following year he relinquished his responsibilities as a Presbyterian minister.</p>
+            <p>Sometime before 1871 Westbrook purchased 5,000 acres of land in Cambria County, PA. He stopped practicing law in order to mine that property for coal. In 1871 he married Henrietta Payne; they lived together on the Cambria County lands until 1878. By 1876 Westbrook was chairman of the Sonman Land &amp; Coal Company. He sold his mining land and retired to Philadelphia in 1882. His first wife, Hall, died that same year.</p>
+            <p>In 1885 Westbrook was serving as president of the American Secular Union. That year he also became treasurer of the Wagner (he had been a WFIS trustee since the previous year). He remained a trustee until his death. In his will, signed 1897, Westbrook bestowed $10,000, upon the death of his wife, to establish a trust that would serve as the foundation for the Westbrook Free Lectureship. He wanted WFIS to use the funds to procure lecturers who would discuss evolution, anthropology, geology, astronomy, natural sciences, and ethical questions as they relate to scientific developments; however, his will explicitly stated that all “… strictly religious questions [were] to be excluded.” Richard Brodhead Westbrook died August 21, 1899; the lectures began in 1912.</p>
+            <p>As a writer, Westbrook produced a number of works: 
+                <title render="italic">Marriage and Divorce</title> (1883), 
+                <title render="italic">Man: Whence and Whither?</title> (1884), 
+                <title render="italic">The Clerical Combination to Influence Civil Legislation on Marriage and Divorce</title> (1887), 
+                <title render="italic">Girard’s Will and Girard College Theology</title> (1888), 
+                <title render="italic">A Few Plain Words Regarding Church Taxation</title> (1890), 
+                <title render="italic">Shall the Bible Be Read in our Public Schools?</title> (1890), 
+                <title render="italic">The Bible: Whence and What?</title> (1890), and 
+                <title render="italic">The Eliminator: or, Skeleton Keys to Sacerdotal Secrets</title> (1894). Henrietta Payne Westbrook, a graduate of Women’s Medical College in 1880, was author of 
+                <title render="italic">The Actor’s Child: A Study of Heredity or Anti-Natal Influences</title> (1900) and 
+                <title render="italic">Westbrook Drives</title> (1902).</p>
+            <p>Sources:</p>
+            <p>Sonman Land and Coal Company. 
+                <title render="italic">The Sonman Land and Coal Co.</title> (Limited). Rare, Am 1876 Sonman, Library Company of Philadelphia, Philadelphia, PA.</p>
+            <p>Wagner Free Institute of Science Biographical Files. 
+                <title render="italic">Dr. R. B. Westbrook Dead at Pascoag</title> (89-040), August 22, 1899, The Library of the Wagner Free Institute of Science, Philadelphia, PA.</p>
+            <p>Wagner Free Institute of Science Biographical Files. 
+                <title render="italic">Excerpt from the will of Richard Brodhead Westbrook</title>, [n.d.], The Library of the Wagner Free Institute of Science, Philadelphia, PA.</p>
+            <p>Wagner Free Institute of Science Biographical Files. 
+                <title render="italic">Passed Away-Death of Richard Brodhead Westbrook, D.D., LL.D.</title> (89-040), [n.d.], The Library of the Wagner Free Institute of Science, Philadelphia, PA.</p>
+            <p>Wagner Free Institute of Science. 1899. 
+                <title render="italic">In Memoriam: Richard Brodhead Westbrook</title>. Proceedings of the Occasion of a Memorial Meeting, the Hall of the Wagner Free Institute of Science, 25 October.</p>
+        </bioghist>
+        <processinfo id="ref5">
+            <head>Processing Information note</head>
+            <p>This collection was processed by Aileen McNamara, 2007.</p>
+        </processinfo>
+        <scopecontent id="ref4">
+            <head>Scope and Contents note</head>
+            <p>The collection contains the administrative records of WFIS’ Westbrook Free Lectureship. Most of the collection documents the Institute’s efforts to obtain and schedule speakers for the yearly lecture series. Materials in the record group include lecture announcements, syllabi, expense records, correspondence and handwritten notes.</p>
+            <p>The earliest material dates from 1910, and records are as recent as 1990; the bulk of the collection deals with the lectures which occurred between 1912 and 1924, and lectures from 1946 to 1973. A gap in records exists between 1924 and 1946; however, some of the syllabi for lectures which fall within that year are in the Instruction series.</p>
+            <p>The Lecture Records series is the most in depth. Along with administrative records, full text is available for the 1918 lecture, and notes and synopses are present for other years.</p>
+        </scopecontent>
+        <prefercite id="ref3">
+            <head>Preferred Citation note</head>
+            <p>[Identification of item], Westbrook Free Lectureship Records, 93-003, Library and Archives of the Wagner Free Institute of Science.</p>
+        </prefercite>
+        <controlaccess>
+            <persname rules="dacs" source="naf">Hrdlička, Aleš, 1869-1943</persname>
+            <persname rules="dacs" source="naf">Jastrow, Morris, 1861-1921</persname>
+            <persname rules="dacs" source="naf">Jennings, H.S. (Herbert Spencer), 1868-1947</persname>
+            <persname rules="dacs" source="naf">Mead, Margaret, 1901-1978</persname>
+            <persname rules="dacs" source="naf">Pinchot, Gifford, 1865-1946</persname>
+            <persname rules="dacs" source="naf">Scott, William Berryman, 1858-1947</persname>
+            <persname rules="dacs" source="naf">Simpson, George Gaylord, 1902-1984</persname>
+            <corpname rules="dacs" source="naf">Wagner Free Institute of Science.</corpname>
+            <persname rules="dacs" source="naf">Westbrook, Richard B., (Richard Brodhead)</persname>
+            <persname rules="dacs" source="naf">Wiley, Harvey W. (Harvey Washington), 1844-1930</persname>
+            <genreform source="aat">Announcements</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Education</subject>
+            <subject source="lcsh">Lectures and lecturing</subject>
+            <subject source="lcsh">Richard Westbrook lectures of the Wagner Free Institute of Science</subject>
+            <subject source="lcsh">Science--Study and teaching</subject>
+            <genreform source="aat">Syllabi</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Instruction</unittitle>
+                    <unitid>Series 1</unitid>
+                    <unitdate normal="1915/1990" type="inclusive">1915-1990</unitdate>
+                </did>
+                <scopecontent id="ref13">
+                    <head>Scope and Contents note</head>
+                    <p>Four folders; Syllabi and Announcements arranged chronologically; materials provide name of lecturer and time, place and topic of lecture.</p>
+                </scopecontent>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>
+                            Lecture Syllabi</unittitle>
+                        <container id="cid15001" type="Folder" label="Text">1</container>
+                        <unitdate>1915, 1918, 1921, 1922-1926</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>
+                            Lecture Syllabi</unittitle>
+                        <container id="cid15002" type="Folder" label="Text">2</container>
+                        <unitdate>1927-1938</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">Lecture Syllabi</emph></unittitle>
+                        <container id="cid15003" type="Folder" label="Text">3</container>
+                        <unitdate>1939-1945, 1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">Poster Announcements for Lectures</emph></unittitle>
+                        <container id="cid15004" type="Folder" label="Text">4</container>
+                        <unitdate>1936-1939, 1944, 1945</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Administrative Records</unittitle>
+                    <unitid>Series 2</unitid>
+                    <unitdate normal="1951/1963" type="inclusive">1951-1963</unitdate>
+                </did>
+                <scopecontent id="ref14">
+                    <head>Scope and Contents note</head>
+                    <p>Two folders; assorted materials arranged chronologically within folders; materials provide scientific ideas of the day and summaries of lecture audiences.</p>
+                </scopecontent>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">Lecture Topics</emph></unittitle>
+                        <container id="cid15005" type="Folder" label="Text">5</container>
+                        <unitdate>1951-1961</unitdate>
+                    </did>
+                    <scopecontent id="ref133">
+                        <head>Contents</head>
+                        <p>Magazine clippings, handwritten notes, agenda, course description, publisher circulars</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">Attendance Statistics</emph></unittitle>
+                        <container id="cid15006" type="Folder" label="Text">6</container>
+                        <unitdate>1954, 1963</unitdate>
+                    </did>
+                    <scopecontent id="ref134">
+                        <head>Contents</head>
+                        <p>Annotated bulletin and lists of all-time highs</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Financial Records</unittitle>
+                    <unitid>Series 3</unitid>
+                    <unitdate normal="1910/1982" type="inclusive">1910-1982</unitdate>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Contents note</head>
+                    <p>Three folders and three ledger books (housed separately); assorted materials arranged chronologically within folders; materials provide information on expenditures related to lectures.</p>
+                </scopecontent>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">Estate Records</emph></unittitle>
+                        <container id="cid15007" type="Folder" label="Text">7</container>
+                        <unitdate normal="1910/1935" type="inclusive">1910-1935</unitdate>
+                    </did>
+                    <scopecontent id="ref132">
+                        <head>Contents</head>
+                        <p>Correspondence, Schedule of Distribution, list of books donated</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">Bank Records</emph></unittitle>
+                        <container id="cid15008" type="Folder" label="Text">8</container>
+                        <unitdate normal="1912/1925" type="inclusive">1912-1925</unitdate>
+                    </did>
+                    <odd id="ref28">
+                        <head>Contents</head>
+                        <p>Check stubs, check book, account book (Enveloped)</p>
+                    </odd>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">Expense Records</emph></unittitle>
+                        <container id="cid15009" type="Folder" label="Text">9</container>
+                        <unitdate>1913-1916, 1936</unitdate>
+                    </did>
+                    <odd id="ref30">
+                        <head>Contents</head>
+                        <p>Cancelled check, vouchers, purchase orders, expense report, bills, receipts</p>
+                    </odd>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">Ledger Books</emph></unittitle>
+                        <container id="cid15010" type="Box" label="Text">2</container>
+                        <unitdate normal="1934/1982" type="inclusive">1934-1982</unitdate>
+                    </did>
+                    <odd id="ref129">
+                        <head>Note:</head>
+                        <p>These three ledger books were originally part of Accession 99-109, but were moved to 93-003 in July 2010.</p>
+                    </odd>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Lecture Records</unittitle>
+                    <unitid>Series 4</unitid>
+                    <unitdate normal="1912/1973" type="inclusive">1912-1973</unitdate>
+                </did>
+                <scopecontent id="ref16">
+                    <head>Scope and Contents note</head>
+                    <p>Forty-five folders; folders arranged chronologically beginning with the earliest lecture; folder contents arranged chronologically beginning with the most recent record. Most materials are correspondence related to the arrangement of the lecture; however, syllabi and lecture synopses provide brief summaries of the lectures. Full copy is available for the 1918 lectures.</p>
+                </scopecontent>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1912 Lecture</emph></unittitle>
+                        <container id="cid15011" type="Folder" label="Text">10</container>
+                        <unitdate>1912-1913</unitdate>
+                    </did>
+                    <odd id="ref32">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, and syllabus</p>
+                        <p>
+                            <title render="bolditalic">Ancient Civilization of Babylonia and Assyria,</title>
+                            <emph render="bold">Morris Jastrow</emph>, Professor of Semitic Languages, University of Pennsylvania</p>
+                        <p>Lecture dates: February 13, 20, 27, March 5, 12, 1912</p>
+                    </odd>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1913 Lecture</emph></unittitle>
+                        <container id="cid15012" type="Folder" label="Text">11</container>
+                    </did>
+                    <odd id="ref34">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, Price lecture synopsis, and syllabus</p>
+                        <p>
+                            <title render="bolditalic">Conservation of Natural Resources,</title>
+                            <emph render="bold">Gifford Pinchot</emph>, President, National Conservation Association; 
+                            <emph render="bold">Marshall O. Leighton</emph>, Cheif Hydrographer, US Geological Survey; 
+                            <emph render="bold">Overton W. Price</emph>, Vice President and Treasurer, National Conservation Association; and 
+                            <emph render="bold">Joseph A. Holmes</emph>, Director, Department of the Interior, Bureau of Mines</p>
+                        <p>Lecture dates: January 13, 25, February 1, 8, 1913</p>
+                        <p>(Humidified and flattened: July 2007)</p>
+                    </odd>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1914 Lecture</emph></unittitle>
+                        <container id="cid15013" type="Folder" label="Text">12</container>
+                        <unitdate>1913-1914</unitdate>
+                    </did>
+                    <odd id="ref36">
+                        <head>Contents</head>
+                        <p>Correspondence</p>
+                        <p>
+                            <title render="bolditalic">The Theory of Evolution,</title>
+                            <emph render="bold">William Berryman Scott</emph>, Blair Professor of Geology and Paleontology, Princeton University</p>
+                        <p>Lecture dates: February 14, 21, 28, March 7, 14, 21, 1914</p>
+                    </odd>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1914 Lecture</emph></unittitle>
+                        <container id="cid15014" type="Folder" label="Text">13</container>
+                        <unitdate>1916</unitdate>
+                    </did>
+                    <odd id="ref38">
+                        <head>Contents</head>
+                        <p>Correspondence</p>
+                    </odd>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1916 Lecture</emph></unittitle>
+                        <container id="cid15015" type="Folder" label="Text">14</container>
+                        <unitdate>1916-1920</unitdate>
+                    </did>
+                    <odd id="ref40">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, syllabus</p>
+                        <p>
+                            <title render="bolditalic">Aspects of Modern Astronomy,</title>
+                            <emph render="bold">John Anthony Miller</emph>, Mathematics and Astronomy Professor, Swarthmore College</p>
+                        <p>Lecture dates: February 19, 26, March 4, 11, 21, 1914</p>
+                    </odd>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1917 Lecture</emph></unittitle>
+                        <container id="cid15016" type="Folder" label="Text">15</container>
+                        <unitdate>1917-1923</unitdate>
+                    </did>
+                    <odd id="ref42">
+                        <head>Contents</head>
+                        <p>Correspondence (
+                            <title render="italic">re: Jennings publication</title>), promotional materials, syllabus</p>
+                        <p>
+                            <title render="bolditalic">Life, Death and Reproduction, Heredity and Evolution in the Simplest Organisms,</title>
+                            <emph render="bold">H.S. Jennings</emph>, Henry Walters Professor of Zoology, Johns Hopkins University, Baltimore, MD</p>
+                        <p>Lecture dates: March 6, 13, 20, 27, 1917</p>
+                    </odd>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1918 Lecture</emph> - Preservation Copy of Lecture I</unittitle>
+                        <container id="cid15017" type="Folder" label="Text">16</container>
+                    </did>
+                    <odd id="ref44">
+                        <head>Contents</head>
+                        <p>Preservation copy of Lecture I - Use Copy</p>
+                        <p>
+                            <title render="bolditalic">The Chemistry, Nutritive Value and Economy of Foods: Definition of Food, Characters of Food, Analysis of Foods,</title>
+                            <emph render="bold">Harvey W. Wiley</emph>, Director, Bureau of Foods, Sanitation and Health, Good Housekeeping, Washington DC</p>
+                        <p>Lecture date: March 5, 1918</p>
+                    </odd>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1918 Lecture</emph> - Original Lecture I</unittitle>
+                        <container id="cid15018" type="Folder" label="Text">17</container>
+                        <unitdate>1918</unitdate>
+                    </did>
+                    <odd id="ref46">
+                        <head>Contents</head>
+                        <p>Original Lecture I - Do Not Use (
+                            <title render="italic">Mold; interleaving: July 2007</title>)</p>
+                        <p>
+                            <title render="bolditalic">The Chemistry, Nutritive Value and Economy of Foods: Definition of Food, Characters of Food, Analysis of Foods,</title>
+                            <emph render="bold">Harvey W. Wiley</emph>, Director, Bureau of Foods, Sanitation and Health, Good Housekeeping, Washington DC</p>
+                        <p>Lecture date: March 5, 1918</p>
+                    </odd>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1918 Lecture</emph> - Preservation Copy of Lecture II</unittitle>
+                        <container id="cid15019" type="Folder" label="Text">18</container>
+                    </did>
+                    <odd id="ref48">
+                        <head>Contents</head>
+                        <p>Preservation Copy of Lecture II - Use Copy</p>
+                        <p>
+                            <title render="bolditalic">The Chemistry, Nutritive Value and Economy of Foods: Quantities of Food, Calories, Metabolism,</title>
+                            <emph render="bold">Harvey W. Wiley</emph>, Director, Bureau of Foods, Sanitation and Health, Good Housekeeping, Washington DC</p>
+                        <p>Lecture date: March 12, 1918</p>
+                    </odd>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1918 Lecture</emph> - Original Lecture II</unittitle>
+                        <container id="cid15020" type="Folder" label="Text">19</container>
+                        <unitdate>1918</unitdate>
+                    </did>
+                    <odd id="ref50">
+                        <head>Contents</head>
+                        <p>Original Lecture II - Do Not Use (
+                            <title render="italic">mold</title>)</p>
+                        <p>
+                            <title render="bolditalic">The Chemistry, Nutritive Value and Economy of Foods: Quantities of Food, Calories, Metabolism,</title>
+                            <emph render="bold">Harvey W. Wiley</emph>, Director, Bureau of Foods, Sanitation and Health, Good Housekeeping, Washington DC</p>
+                        <p>Lecture date: March 12, 1918</p>
+                    </odd>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1918 Lecture</emph> - Preservation Copy of Lecture III</unittitle>
+                        <container id="cid15021" type="Folder" label="Text">20</container>
+                    </did>
+                    <odd id="ref52">
+                        <head>Contents</head>
+                        <p>Preservation Copy of Lecture III - Use Copy</p>
+                        <p>
+                            <title render="bolditalic">The Chemistry, Nutritive Value and Economy of Foods: Food Production, Food Industries,</title>
+                            <emph render="bold">Harvey W. Wiley</emph>, Director, Bureau of Foods, Sanitation and Health, Good Housekeeping, Washington DC</p>
+                        <p>Lecture date: March 19, 1918</p>
+                    </odd>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1918 Lecture</emph> - Original Lecture III</unittitle>
+                        <container id="cid15022" type="Folder" label="Text">21</container>
+                        <unitdate>1918</unitdate>
+                    </did>
+                    <odd id="ref54">
+                        <head>Contents</head>
+                        <p>Original Lecture III - Do Not Use (
+                            <title render="italic">mold</title>)</p>
+                        <p>
+                            <title render="bolditalic">The Chemistry, Nutritive Value and Economy of Foods: Food Production, Food Industries,</title>
+                            <emph render="bold">Harvey W. Wiley</emph>, Director, Bureau of Foods, Sanitation and Health, Good Housekeeping, Washington DC</p>
+                        <p>Lecture date: March 19, 1918</p>
+                    </odd>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1918 Lecture</emph> - Preservation Copy of Lecture IV</unittitle>
+                        <container id="cid15023" type="Folder" label="Text">22</container>
+                    </did>
+                    <odd id="ref56">
+                        <head>Contents</head>
+                        <p>Preservation Copy of Lecture IV - Use Copy</p>
+                        <p>
+                            <title render="bolditalic">The Chemistry, Nutritive Value and Economy of Foods: Food Conservation, Relation of Food to Health, Food and Efficiency, Food Economy,</title>
+                            <emph render="bold">Harvey W. Wiley</emph>, Director, Bureau of Foods, Sanitation and Health, Good Housekeeping, Washington DC</p>
+                        <p>Lecture date: March 26, 1918</p>
+                    </odd>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1918 Lecture</emph> - Original Lecture IV</unittitle>
+                        <container id="cid15024" type="Folder" label="Text">23</container>
+                        <unitdate>1918</unitdate>
+                    </did>
+                    <odd id="ref59">
+                        <head>Contents</head>
+                        <p>Original Lecture IV - Do Not Use (
+                            <title render="italic">Mold; Interleaving: July 2007</title>)</p>
+                        <p>
+                            <title render="bolditalic">The Chemistry, Nutritive Value and Economy of Foods: Food Conservation, Relation of Food to Health, Food and Efficiency, Food Economy,</title>
+                            <emph render="bold">Harvey W. Wiley</emph>, Director, Bureau of Foods, Sanitation and Health, Good Housekeeping, Washington DC</p>
+                        <p>Lecture date: March 26, 1918</p>
+                    </odd>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1919 Lecture</emph></unittitle>
+                        <container id="cid15025" type="Folder" label="Text">24</container>
+                        <unitdate>1919-1920</unitdate>
+                    </did>
+                    <odd id="ref61">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, syllabus</p>
+                        <p>
+                            <title render="bolditalic">The Origin and Antiquity of the American Indian,</title>
+                            <emph render="bold">Alex Hrdlicka</emph>, Curator, Division of Physical Anthropology, U.S. National Museum, Smithsonian Institute, Washington DC</p>
+                        <p>Lecture dates: March 8, 15, 22, 29, 1919</p>
+                    </odd>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1920 Lecture</emph></unittitle>
+                        <container id="cid15026" type="Folder" label="Text">25</container>
+                        <unitdate>1919-1920</unitdate>
+                    </did>
+                    <odd id="ref63">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">Chemistry and Civilization,</title>
+                            <emph render="bold">Allerton S. Cushman</emph>, Director, Institute of Industrial Research, Inc., Washington DC; Ex-Lieutenant Colonel, Ordnance Department, USA</p>
+                        <p>Lecture dates: March 13, 20, 27, and April 3, 1920</p>
+                    </odd>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1924 Lecture</emph></unittitle>
+                        <container id="cid15027" type="Folder" label="Text">26</container>
+                        <unitdate>1923-1924</unitdate>
+                    </did>
+                    <odd id="ref65">
+                        <head>Contents</head>
+                        <p>Correspondence, syllabi</p>
+                        <p>
+                            <title render="bolditalic">The Distribution of American Indian Traits,</title>
+                            <emph render="bold">Clark Wissler</emph>, Curator-in-Chief, Division of Anthropology, American Museum of Natural History, New York, NY</p>
+                        <p>Lecture dates: February 2, 9, 16, 23, 1924</p>
+                    </odd>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1946 Lecture</emph></unittitle>
+                        <container id="cid15028" type="Folder" label="Text">27</container>
+                        <unitdate>1945-1946</unitdate>
+                    </did>
+                    <odd id="ref67">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopies, handwritten notes, lecture figures, memos, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">Electrical Communications - Its Roots and Branches,</title>
+                            <emph render="bold">J. Owen Perrine</emph>, Assistant Vice President, American Telephone and Telegraph, Co., New York, NY</p>
+                        <p>Lecture dates: April 12, 18, 26, 1946</p>
+                    </odd>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1946 Lecture</emph> - Preservation Copy of Lecture Notes</unittitle>
+                        <container id="cid15029" type="Folder" label="Text">27.1</container>
+                    </did>
+                    <odd id="ref69">
+                        <head>Contents</head>
+                        <p>Preservation copy of lecture notes - Use Copy</p>
+                    </odd>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1946 Lecture</emph> - Original Lecture Notes</unittitle>
+                        <container id="cid15030" type="Folder" label="Text">27.2</container>
+                    </did>
+                    <odd id="ref71">
+                        <head>Contents</head>
+                        <p>Original Lecture Notes - Do Not Use (
+                            <title render="italic">Brittle; Interleaving: July 2007</title>)</p>
+                    </odd>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1947 Lecture</emph></unittitle>
+                        <container id="cid15031" type="Folder" label="Text">28</container>
+                        <unitdate>1946-1947</unitdate>
+                    </did>
+                    <odd id="ref73">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopies, handwritten notes, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">The Glacial Ages,</title>
+                            <emph render="bold">Richard Foster Flint</emph>, Professor, Yale University, Department of Geology, New Haven, CT</p>
+                        <p>Lecture dates: April 11, 12, 18, 1947</p>
+                    </odd>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1947 Lecture</emph> - Preservation Copy of Lecture Notes</unittitle>
+                        <container id="cid15032" type="Folder" label="Text">28.1</container>
+                    </did>
+                    <odd id="ref75">
+                        <head>Contents</head>
+                        <p>Preservation copy of lecture notes - Use Copy</p>
+                    </odd>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1947 Lecture</emph> - Original Lecture Notes</unittitle>
+                        <container id="cid15033" type="Folder" label="Text">28.2</container>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                    <odd id="ref77">
+                        <head>Contents</head>
+                        <p>Original lecture notes - Do Not Use (
+                            <title render="italic">Brittle; Interleaving: July 2007</title>)</p>
+                    </odd>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1948 Lecture</emph></unittitle>
+                        <container id="cid15034" type="Folder" label="Text">29</container>
+                        <unitdate>1947-1948</unitdate>
+                    </did>
+                    <odd id="ref79">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopies, hnadwritten notes, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">High Speed Aerodynamics and Jet Propulsions,</title>
+                            <emph render="bold">Courtland D. Perkins</emph>, Professor, Princeton University, School of Engineering, Princeton, NJ</p>
+                        <p>Lecture dates: April 22, 29, 30, 1948</p>
+                    </odd>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1949 Lecture</emph></unittitle>
+                        <container id="cid15035" type="Folder" label="Text">30</container>
+                        <unitdate>1948-1949</unitdate>
+                    </did>
+                    <odd id="ref81">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopies, handwritten notes, newspaper clippings, press release, lecture synopses (
+                            <title render="italic">Encapsulated clippings: July 2007</title>)</p>
+                        <p>
+                            <title render="bolditalic">Earth's Resources and Man's Needs,</title>
+                            <emph render="bold">Kirtley F. Mather</emph>, Professor, Harvard University, Geological Museum, Department of Geology and Geography, Cambridge, MA</p>
+                        <p>Lecture dates: April 14, 21, 28, 1949</p>
+                    </odd>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1950 Lecture</emph></unittitle>
+                        <container id="cid15036" type="Folder" label="Text">31</container>
+                        <unitdate>1949-1950</unitdate>
+                    </did>
+                    <odd id="ref83">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopies, handwritten notes, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">Evolution and the History of Life,</title>
+                            <emph render="bold">George Gaylord Simpson</emph>, Chairman, Department of Geology and Paleontology, American Museum of Natural History, New York, NY</p>
+                        <p>Lecture Dates: April 6, 13, 20, 1950</p>
+                    </odd>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1951 Lecture</emph></unittitle>
+                        <container id="cid15037" type="Folder" label="Text">32</container>
+                        <unitdate>1951-1952</unitdate>
+                    </did>
+                    <odd id="ref85">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopies, WFIS Bulletin, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">Exploration of the Atlantic Ocean Basin</title>
+                            <emph render="bold">Maurice Ewing</emph>, Columbia University, Department of Geology, LaMont Geological Survey, Palisades, NY</p>
+                        <p>Lecture dates: April 5, 12, 19, 1951</p>
+                    </odd>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1952 Lecture</emph></unittitle>
+                        <container id="cid15038" type="Folder" label="Text">33</container>
+                        <unitdate>1951-1952</unitdate>
+                    </did>
+                    <odd id="ref87">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopies, handwritten notes, biographical notes, brief lecture notes</p>
+                        <p>
+                            <title render="bolditalic">Radiations: Terrestrial, Atomic, and Cosmic,</title>
+                            <emph render="bold">William F.G. Swann</emph>, Director, Bartol Research Foundation of the Franklin Institute, Whittier Place, Swarthmore, PA</p>
+                        <p>Lecture dates: April 3, 10, 17, 1952</p>
+                    </odd>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1953 Lecture</emph></unittitle>
+                        <container id="cid15039" type="Folder" label="Text">34</container>
+                        <unitdate>1952-1953; 2002</unitdate>
+                    </did>
+                    <odd id="ref89">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, biographical notes, 2002 example of Mead's signature, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">Cultural Background for Human Invention,</title>
+                            <emph render="bold">Margaret Mead</emph>, Associate Curator of Ethnology, The American Museum of Natural History, Department of Anthropology, New York, NY</p>
+                        <p>Lecture dates: April 16, 30, and May 1, 1953</p>
+                    </odd>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1954 Lecture</emph></unittitle>
+                        <container id="cid15040" type="Folder" label="Text">35</container>
+                        <unitdate>1953-1954</unitdate>
+                    </did>
+                    <odd id="ref91">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, handwritten notes, biographical notes</p>
+                        <p>
+                            <title render="bolditalic">Plant Biology and Man's Progress,</title>
+                            <emph render="bold">Harley H. Bartlett</emph>, Professor of Botany, University of Michigan, Ann Arbor, MI</p>
+                        <p>Lecture dates: April 21, 28, 29, 1954</p>
+                    </odd>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1955 Lecture</emph></unittitle>
+                        <container id="cid15041" type="Folder" label="Text">36</container>
+                        <unitdate>1954-1955</unitdate>
+                    </did>
+                    <odd id="ref93">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopy, handwritten notes, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">Heredity and the Human Community,</title>
+                            <emph render="bold">Leslie C. Dunn</emph>, Director, The Institute for the Study of Human Variation and for Research on the Biological Factors Causing Evolutionary Changes in Populations, Columbia University, Department of Zoology, New York, NY</p>
+                        <p>Lecture dates: April 14, 21, 28, 1955</p>
+                    </odd>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1956 Lecture</emph></unittitle>
+                        <container id="cid15042" type="Folder" label="Text">37</container>
+                        <unitdate>1955-1956</unitdate>
+                    </did>
+                    <odd id="ref95">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, handwritten notes, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">Climate and the Modern World,</title>
+                            <emph render="bold">Charles W. Thornthwaite</emph>, Director, The Laboratory of Climatology, Elmer, NJ</p>
+                        <p>Lecture dates: April 12, 19, 26, 1956</p>
+                    </odd>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1957 Lecture</emph></unittitle>
+                        <container id="cid15043" type="Folder" label="Text">38</container>
+                        <unitdate>1956-1957</unitdate>
+                    </did>
+                    <odd id="ref97">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, handwritten notes, biographical notes, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">Scientific Progress and Human Needs,</title>
+                            <title render="bold">William Vogt</title>, National Director, Planned Parenthood Federation of America, Inc., New York, NY; 
+                            <title render="bold">George R. Seidel</title>, Technical Advisor, EI du Pont de Nemours and Company, Wilmington, DE; and 
+                            <title render="bold">Maria Telkes</title>, Project Director, New York University, College of Engineering, New York, NY</p>
+                        <p>Lecture dates: April 4, 11, 18, 1957</p>
+                    </odd>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1958 Lecture</emph></unittitle>
+                        <container id="cid15044" type="Folder" label="Text">39</container>
+                        <unitdate>1957-1958</unitdate>
+                    </did>
+                    <odd id="ref99">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopy, biographical notes</p>
+                        <p>
+                            <title render="bolditalic">The Nature of Human Nature,</title>
+                            <emph render="bold">Hadley Cantril</emph>, Senior Counsellor, The Institute for International Social Research, Princeton, NJ</p>
+                        <p>Lecture dates: April 3, 10, 17, 1958</p>
+                    </odd>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1959 Lecture</emph></unittitle>
+                        <container id="cid15045" type="Folder" label="Text">40</container>
+                        <unitdate>1958-1959</unitdate>
+                    </did>
+                    <odd id="ref101">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials</p>
+                        <p>
+                            <title render="bolditalic">Evolution: From the Cosmos to Man,</title>
+                            <title render="bold">Harlow Shapley</title>, Director, Harvard College Observatory, Harvard University, Department of Astronomy, Cambridge, MA;
+                            <title render="bold"> Conway Zirkle</title>, Professor of Botany, University of Pennsylvania, Philadelphia, PA; and 
+                            <title render="bold">William L. Straus, Jr.</title>, Professor of Anatomy and Physical Anthropology, Johns Hopkins University School of Medicine, Department of Anatomy, Baltimore, MD</p>
+                        <p>Lecture dates: April 2, 9, 16, 1959</p>
+                    </odd>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1960 Lecture</emph></unittitle>
+                        <container id="cid15046" type="Folder" label="Text">41</container>
+                        <unitdate>1959-1960</unitdate>
+                    </did>
+                    <odd id="ref103">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, preservation photocopies, handwritten notes</p>
+                        <p>
+                            <title render="bolditalic">Early Man,</title>
+                            <title render="bold">Carleton S. Coon</title>, Professor of Anthropology, The University Museum, University of Pennsylvania, Philadelphia, PA; and 
+                            <title render="bold">William W. Howells</title>, Professor of Anthropology, Harvard University, Department of Anthropology, Peabody Museum, Cambridge, MA</p>
+                        <p>Lecture dates: April 21, 28, 1960</p>
+                    </odd>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1961 Lecture</emph></unittitle>
+                        <container id="cid15047" type="Folder" label="Text">42</container>
+                        <unitdate>1960-1961</unitdate>
+                    </did>
+                    <odd id="ref105">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, handwritten notes</p>
+                        <p>
+                            <title render="bolditalic">Prospects of the Space Age,</title>
+                            <emph render="bold">Kurt R. Stehling</emph>, Scientist, Office of Program Planning and Evaluation, National Aeronautics and Space Administration, Washington DC</p>
+                        <p>Lecture dates: March 30, and April 6, 13, 1961</p>
+                    </odd>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1962 Lecture</emph></unittitle>
+                        <container id="cid15048" type="Folder" label="Text">43</container>
+                        <unitdate>1961-1962</unitdate>
+                    </did>
+                    <odd id="ref107">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, handwritten notes, brief lecture notes</p>
+                        <p>
+                            <title render="bolditalic">Problems of the Earth's Crust,</title>
+                            <emph render="bold">Walter H. Bucher</emph>, Emeritus Professor of Geology, Columbia University, New York, NY; Consultant, Humble Oil &amp; Refining Company, Houston, TX</p>
+                    </odd>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1963 Lecture</emph></unittitle>
+                        <container id="cid15049" type="Folder" label="Text">44</container>
+                        <unitdate>1962-1963</unitdate>
+                    </did>
+                    <odd id="ref109">
+                        <head>Contents</head>
+                        <p>Correspondence (
+                            <title render="italic">re: theft at WFIS</title>), promotional materials, preservation photocopies, handwritten notes, biographical notes</p>
+                        <p>
+                            <title render="bolditalic">The Study of Human Behavior in Disaster,</title>
+                            <title render="bold">George W. Baker</title>, Associate Program Director for Life and Social Sciences Facilities, Office of Institutional Programs, National Science Foundation, Washington, DC and Technical Director, Disaser Researach Group, Division of Anthropology and Psychology, National Academy of Sciences, National Research Council, Washington, DC; 
+                            <title render="bold">Ira A. Cisin</title>, Director, Social Studies Project, George Washington University, Washington, DC; 
+                            <title render="bold">John P. Gillin</title>, Research Professor, University of Pittsburgh, Department of Anthropology, Pittsbugh, PA and U.S. Naval Ordnance Test Station, Department of the Navy, China Lake, CA</p>
+                        <p>Lecture dates: April 11, 18, 25, 1963</p>
+                    </odd>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1966 Lecture</emph></unittitle>
+                        <container id="cid15050" type="Folder" label="Text">45</container>
+                        <unitdate>1966</unitdate>
+                    </did>
+                    <odd id="ref111">
+                        <head>Contents</head>
+                        <p>Correspondence, handwritten notes, Oliver Wendell Holmes Association (OWHA) statment of purpose, director's report, promotional materials, sign-in sheet, attendance list</p>
+                    </odd>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1966 Lecture</emph></unittitle>
+                        <container id="cid15051" type="Folder" label="Text">46</container>
+                        <unitdate>1966-1967</unitdate>
+                    </did>
+                    <odd id="ref113">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, handwritten notes, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">The Impact of Science and Technology on Modern Life,</title>
+                            <emph render="bold">Kirtley F. Mather</emph>, President, OWHA, New York, NY; retired professor, Harvard University, Geological Museum, Department of Geology and Geography, Cambridge, MA</p>
+                        <p>Lecture Dates: October 18, 19, 20, 1966 (at Empire Room, Wanamaker's, Philadelphia, PA)</p>
+                    </odd>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1966 Lecture</emph></unittitle>
+                        <container id="cid15052" type="Folder" label="Text">47</container>
+                        <unitdate>1966</unitdate>
+                    </did>
+                    <odd id="ref115">
+                        <head>Contents</head>
+                        <p>Correspondence, contact information, handwritten notes</p>
+                    </odd>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1967 Lecture</emph></unittitle>
+                        <container id="cid15053" type="Folder" label="Text">48</container>
+                        <unitdate>1967-1968</unitdate>
+                    </did>
+                    <odd id="ref117">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, director's report, handwritten notes, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">Galaxies and Mankind,</title>
+                            <emph render="bold">Harlow Shapley</emph>, former director, Harvard College Observatory, Harvard University, Department of Astronomy, Cambridge, MA; President, American Association for the Advancement of Science</p>
+                        <p>Lecture dates: October 17, 18, 19, 1967 (at Empire Room, Wanamaker's, Philadelphia, PA)</p>
+                    </odd>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1967 Lecture</emph></unittitle>
+                        <container id="cid15054" type="Folder" label="Text">49</container>
+                        <unitdate>1967</unitdate>
+                    </did>
+                    <odd id="ref119">
+                        <head>Contents</head>
+                        <p>Correspondence, purpose of OWHA, OWHA questionnaires, handwritten notes, attendance list</p>
+                    </odd>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1972 Lecture</emph></unittitle>
+                        <container id="cid15055" type="Folder" label="Text">50</container>
+                        <unitdate>1972</unitdate>
+                    </did>
+                    <odd id="ref121">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, handwritten notes</p>
+                        <p>
+                            <title render="bolditalic">Identification of Sedimentary Environments in Reservoir Sandstones,</title>
+                            <emph render="bold">Robert Berg</emph>, Lecturer, American Association of Petroleum Geologists, Tulsa, OK; Professor, Texas A&amp;M University, Department of Geology, College Station, TX</p>
+                        <p>Lecture dates: March 6, 1972 (at Bryn Mawr College Science Center, Bryn Mawr, PA)</p>
+                    </odd>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="bold">1973 Lecture</emph></unittitle>
+                        <container id="cid15056" type="Folder" label="Text">51</container>
+                        <unitdate>1973</unitdate>
+                    </did>
+                    <odd id="ref123">
+                        <head>Contents</head>
+                        <p>Correspondence, promotional materials, handwritten notes, biographical notes, lecture synopses</p>
+                        <p>
+                            <title render="bolditalic">What and Where are those UFOs?</title>
+                            <emph render="bold">Donald M. Menzel</emph>, Paine Professor of Practical Astronomy, Harvard College, Cambridge, MA; Research Scientist, Astrophysical Observatory, Smithsonian Institute, Cambridge, MA</p>
+                        <p>Lecture dates: November 8, 1973 (at the Free Library of Philadelphia, Northeast Regional Library, Philadelphia, PA)</p>
+                    </odd>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

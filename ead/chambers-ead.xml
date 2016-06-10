@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Robert Chambers collection on William Wagner and the History of the Wagner Free Institute of Science, 1798-1980 (bulk 1820-1910)
+                    <num>WFIS.90-015</num>
+                </titleproper>
+                <titleproper type="filing">Robert Chambers collection on William Wagner and the History of the Wagner Free Institute of Science, 1798-1980 (bulk 1820-1910)</titleproper>
+                <author>Finding aid prepared by Holly Mengel</author>
+                <sponsor>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Wagner Free Institute of Science</publisher>
+                <address>
+                    <addressline>1700 W. Montgomery Ave.</addressline>
+                    <addressline>Philadelphia, PA, 19121</addressline>
+                    <addressline>215-763-6529 x12</addressline>
+                    <addressline>library@wagnerfreeinstitute.org</addressline>
+                </address>
+            </publicationstmt>
+            <seriesstmt>
+                <p>WilliamWagner personal papers; William Wagner business papers; Skidmore personal papers; Wagner Free Institute of Science records</p>
+            </seriesstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-10-30T11:14-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Robert Chambers collection on William Wagner and the history of the Wagner Free Institute of Science</unittitle>
+            <unitid>WFIS.90-015</unitid>
+            <repository>
+                <corpname>Wagner Free Institute of Science</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 Linear feet</extent>
+                <extent>5 containers</extent>
+            </physdesc>
+            <unitdate normal="1820/1910" type="bulk">Bulk, 1820-1910</unitdate>
+            <unitdate normal="1798/1980" type="inclusive">1798-1980</unitdate>
+            <abstract id="ref152" label="Abstract">Incorporated by William Wagner (1796-1885) in 1855, the Wagner Free Institute of Science is a natural history museum and educational institution in Philadelphia that is dedicated to providing free public education in the sciences. The Robert Chambers collection on William Wagner and the history of the Wagner Free Institute of Science includes material collected by Chambers and contains correspondence; genealogical and family information; documents on William Wagner's early business career with Stephen Girard, the Lennoxville Steam Saw Mill and Snowden and Wagner; Wagner Free Instute of Science financial and operational material; and personal material from Sydney T. Skidmore, a member of the Board. This collection will almost certainly not provide a researcher with all the information needed—instead, this is an excellent starting point. Because these materials were, according to institutional memory, removed from other collections by Robert Chambers and kept close at hand due to their importance, these records will not tell the entire story. However, Chambers apparently thought them to be of particular interest and value and therefore, researchers will benefit greatly from consulting this finding aid. Researchers interested in the life of William Wagner, his early business efforts, Stephen Girard, Joseph Leidy, and the operation of the Wagner Free Institute of Science will find this collection to be of great interest.</abstract>
+            <origination label="creator">
+                <persname rules="dacs" role="Collector (col)">Chambers, Robert</persname>
+            </origination>
+            <origination label="creator">
+                <corpname rules="dacs" source="naf">Wagner Free Institute of Science.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref1">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research.</p>
+        </accessrestrict>
+        <processinfo id="ref2">
+            <head>Processing Information note</head>
+            <p>The processing of this collection was made possible through generous funding from The Andrew W. Mellon Foundation, administered through the Council on Library and Information Resources’ “Cataloging Hidden Special Collections and Archives” Project.</p>
+            <p>This collection was 
+                <emph render="italic">minimally processed</emph> in 2009-2011, as part of an experimental project conducted under the auspices of the Philadelphia Area Consortium of Special Collections Libraries to help eliminate processing backlog in Philadelphia repositories. A minimally processed collection is one processed at a less intensive rate than traditionally thought necessary to make a collection ready for use by researchers. When citing sources from this collection, researchers are advised to defer to folder titles provided in the finding aid rather than those provided on the physical folder.</p>
+            <p>Employing processing strategies outlined in Mark Greene's and Dennis Meissner's 2005 article, 
+                <emph render="italic">More Product, Less Process: Revamping Traditional Processing Approaches to Deal With Late 20th-Century Collections</emph>, the project team tested the limits of minimal processing on collections of all types and ages, in 23 Philadelphia area repositories. A primary goal of the project, the team processed at an average rate of 2-3 hours per linear foot of records, a fraction of the time ordinarily reserved for the arrangement and description of collections. Among other time saving strategies, the project team did not extensively review the content of the collections, replace acidic folders or complete any preservation work.</p>
+        </processinfo>
+        <userestrict id="ref3">
+            <head>Conditions Governing Use note</head>
+            <p>Copyright restrictions may apply. Please contact the Wagner Free Institute of Science with requests for copying and for authorization to publish, quote or reproduce the material.</p>
+        </userestrict>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials note</head>
+            <p>Wagner Free Institute of Science: William Wagner European travel journal (89-005); William Wagner personal papers (89-010, 93-004 and 98-051); and William Wagner business papers (89-001).</p>
+        </relatedmaterial>
+        <prefercite id="ref151">
+            <head>Preferred Citation note</head>
+            <p>[Identification of item], Robert Chambers collection on William Wagner and the history of the Wagner Free Institute of Science, 90-015, Library and Archives of the Wagner Free Institute of Science.</p>
+        </prefercite>
+        <bioghist id="ref7">
+            <head>Historical note</head>
+            <p>Incorporated by William Wagner (1796-1885) in 1855, the Wagner Free Institute of Science is a natural history museum and educational institution in Philadelphia that is dedicated to providing free public education in the sciences. Indeed, “its free public education courses on science … are the oldest program devoted to free adult education in the United States.” (The First 150 Years, page 1).</p>
+            <p>Robert Chamber served as the Director of the Wagner Free Institute of Science from 1946 to 1980. During his tenure, he collected and assembled a collection of material regarding William Wagner and the Wagner Free Institute of Science.</p>
+            <p>William Wagner, “a noted Philadelphia merchant, philanthropist, gentleman scientist, and lifelong collector of natural history specimens,” (The First 150 Years, p. 1) was born in Philadelphia and graduated from the Academy, which later became the University of Pennsylvania, in 1808. He started his career in an apprenticeship in the counting house of Stephen Girard, a Philadelphia financier. As time passed, Wagner’s duties progressed until he was “assigned the position of supercargo and sent overseas to look after Girard’s shipping interests,” (NRHP Registration, Section 8, page 2). He continued working for Girard for seven years, learning from him about both business and philanthropy. Wagner then formed two businesses: a mercantile partnership with Captain Snowden creating his business Snowden &amp; Wagner which existed from 1819 to 1825; and the Lennoxville Steam Saw Mill which existed from 1925 to 1828. By 1940, Wagner “retired from his commercial pursuits,” (NRHP Registration, Section 8, page 2).</p>
+            <p>Until this time, Wagner’s travels provided him with opportunities to collect specimens and in 1841 and 1842, he travelled to Europe with his wife. During this trip, Wagner continued to collect specimens and visited “principal scientific institutes of the Continent,” (NRHP Registration, Section 8, page 2). Upon his return to Philadelphia, the size of his specimen collection necessitated the building of a wing which he called “The Cabinet” at his home, Elm Grove. In 1847, “believing strongly that education in the sciences should be available to everyone, Wagner began offering free lectures on science at his home,” (The First 150 Years, page 1) using his extensive collection of natural history specimens. By 1855, his home no longer accommodated the number of people interested in his lectures, and he moved the lectures to the Municipal Hall at 13th and Spring Garden Streets and formally established the Wagner Free Institute of Science. Its “program [was] codified in a charter drafted by Wagner, himself,” (NRHP Registration, Section 8, page 2) on May 21, 1855. The existing building which houses the Wagner Free Institute of Science was opened in 1865 and includes an exhibit gallery, classrooms, a library and a lecture hall.</p>
+            <p>Although, he served as President of the Wagner Free Institute of Science until his death in 1885, he prepared for the future of his Institute and, in 1864, decided to leave his “estate to the charge of a Board of Trustees who would continue to run the institution according to [Wagner’s] original goals,” (NRHP Registration, Section 8, pages 3-4). After his death, the Board of Directors appointed Joseph Leidy as director of the academic programs of the Wagner Free Institute of Science. Leidy was “a biologist of international reputation,” (The First 150 Years, page 2) and was serving as Professor of Anatomy at the University of Pennsylvania and President of the Academy of Natural Sciences of Philadelphia. Leidy, who served until his death in 1891, “expanded the programs at the Institute to include a more significant and extensive course of scholarly research,” obtained “some of the most noted scientists and explorers of the age, including Angelo Heilpern, Joseph Willcox and Henry Leffmann for his faculty,” (NRHP Registration, Section 8, page 5), founded, with member of the Board Sydney Skidmore, the Society for the Extension of University Teaching on November 5, 1890; and reorganized the Wagner Free Institute of Science’s Natural History Museum into a systematic display. Leidy’s arrangement remains virtually unaltered to this day.</p>
+            <p>In 1892, Samuel Wagner, along with several other Philadelphians “appl[ied] for a charter to form the Free Library of Philadelphia,” (NRHP Registration, Section 8, page 6) and The Wagner Free Institute became Branch No. 1 of the Free Library. In 1901, a new wing was built and that housed the Free Library branch until the Columbia Avenue branch opened in 1962.</p>
+            <p>Samuel Wagner served as President of the Board of Trustees of the Wagner Free Institute from 1885 to 1921 and as President Emeritus from 1921 to 1937. Other administrators of the Wagner include: Thomas Lynch Montgomery, Actuary and Librarian from 1886 to 1903; John Rothermel, Superintendent from 1903 to 1913 and Director from 1914 to 1924; Carl Boyer, Curator from 1924 to 1928 and Director from 1928 to 1945; Robert Chambers, Director from 1945 to 1980; John Graham, Director from 1980 to 1988; Roger Montgomery, Director from 1988 to 1992; and Susan Glassman, Director from 1993.</p>
+            <p>According to the National Register for Historic Places Registration Form, the Wagner Free Institute of Science is “a nationally significant monument documenting the development of science, education and museums,” (NRHP Registration, Section 8, page 2).</p>
+            <p>
+                <emph render="bold">Bibliography:</emph></p>
+            <p>“The First 150 Years: A Brief History,” author unknown, circa 2008.</p>
+            <p>National Register of Historic Places Form, 1989.</p>
+            <p></p>
+            <p></p>
+            <p></p>
+        </bioghist>
+        <scopecontent id="ref149">
+            <head>Scope and Contents note</head>
+            <p>The Robert Chambers collection on William Wagner and the history of the Wagner Free Institute of Science consists of material collected by Robert Chambers. The collection contains correspondence, genealogical and family information, information on Williiam Wagner’s early business career with Stephen Girard, the Lennoxville Steam Saw Mill, and Snowden and Wagner, financial material, operational material for the Wagner Free Institute of Science, and personal material from Sydney T. Skidmore, a member of the Board.</p>
+            <p>This collection is arranged in four series: “William Wagner Personal Papers;” “William Wagner Business Papers;” “Skidmore Personal Papers;” and “Wagner Free Institute of Science Records.” Prior to the processing of this collection, Wagner Free Institute of Science staff identified almost all the material in this collection and assigned the material to a series. This intellectual arrangement has been maintained.</p>
+            <p>The “William Wagner Personal Papers” series contains papers that illustrate Wagner’s interests and background. The series includes genealogical, family and autobiographical material on William Wagner as well as education material from the Philadelphia Academy from which he graduated in 1808. In this series, researchers will find evidence of Wagner’s enduring interests in participation in intellectual societies, books, and the natural sciences. Information regarding Wagner’s marriage to and divorce from Caroline Say Moore and his later marriage to Louisa Binney is also included in the collection. Wagner saved a great deal of memorabilia from his honeymoon in Europe following his marriage to Louisa Binney and spent much of this time in Europe visiting natural science institutions and expanding his collections.</p>
+            <p>The “William Wagner Business Papers” series includes information on Wagner’s early business affairs: as supercargo for Stephen Girard, dealing mostly with the Schooners Helveticus and Rousseau; as co-owner of Snowden and Wagner; and as co-owner of Lenoxville Steam Saw Mill. Other mentions of ships of note included in the series are: Amelia and Caroline. The bulk of this collection consists of financial records of Wagner’s involvement in shipping.</p>
+            <p>Included in “The Skidmore Personal Papers” series is information regarding Sydney T. Skidmore and his family. The bulk of this series consists of family correspondence, but of note may be correspondence from S.A. Laurs to Sydney T. Skidmore regarding service in the Civil War. Skidmore’s papers also include Louisa Binney Wagner’s obituary and notes by a John Roberts on William Wagner which were written in 1965.</p>
+            <p>The “Wagner Free Institute of Science Records” series is divided into seven subseries: “Affiliated Organizations;” “Building Materials;” “Board Records;” “Financial Records;” “Publications;” “Library;” and “Museum.” Again, these subseries were assigned by a Wagner Free Institute of Science staff member prior to the processing of the collection and have been maintained.</p>
+            <p>Of note within this series is the correspondence which includes writers and recipients such as: R. B. Westbrook; Samuel Wagner; William Wagner; Thomas L. Montgomery; Joseph Willcox; Joseph Leidy; John Rothermel; William H. Dall of the Smithsonian Institute; and Charles Johnson, to name just a few. The topics of this correspondence include the University Extension Program, the Wagner Free Institute of Science building, specimen collecting and exchanges, financial information (including rentals and property issues), the publication of the 
+                <emph render="italic">Transactions</emph>, and the Museum at the Wagner Free Institute of Science. Important materials within the series are reports such as the Actuary’s Report; the Librarian’s Report and the Museum Reports, the bulk of these ranging in date from 1899 to 1903.</p>
+            <p>This collection will almost certainly not provide a researcher with all the information needed—instead, this is an excellent starting point. Because these materials were, according to institutional memory, removed from other collections by Robert Chambers and kept close at hand due to their importance, these records will not tell the entire story. However, Chambers apparently thought them to be of particular interest and value and therefore, researchers will benefit greatly from consulting this finding aid. Researchers interested in the life of William Wagner, his early business efforts, Stephen Girard, Joseph Leidy, and the operation of the Wagner Free Institute of Science will find this collection to be of great interest.</p>
+        </scopecontent>
+        <controlaccess>
+            <corpname rules="dacs" source="naf">Academy and Charitable School of Philadelphia in the Province of Pennsylvania.</corpname>
+            <persname rules="dacs">Boyer, Carl</persname>
+            <persname rules="dacs" source="naf">Dall, William Healey, 1845-1927</persname>
+            <corpname rules="dacs" source="naf">Free Library of Philadelphia.</corpname>
+            <persname rules="dacs" source="naf">Girard, Stephen, 1750-1831</persname>
+            <persname rules="dacs">Graham, John</persname>
+            <persname rules="dacs" source="naf">Leidy, Joseph, 1823-189</persname>
+            <corpname rules="dacs">Lennoxville Steam and Saw Mill.</corpname>
+            <persname rules="dacs" source="naf">Montgomery, Thomas Lynch, 1862-</persname>
+            <persname rules="dacs">Rothermel, John</persname>
+            <persname rules="dacs">Skidmore, Sydney Tuthill, 1844-1928</persname>
+            <corpname rules="dacs">Snowden &amp; Wagner.</corpname>
+            <corpname rules="dacs" source="naf">Wagner Free Institute of Science.</corpname>
+            <persname rules="dacs">Wagner, Caroline Moore Say</persname>
+            <persname rules="dacs">Wagner, Louisa Binney, 1814-1898</persname>
+            <persname rules="dacs">Wagner, Samuel, 1842-1937</persname>
+            <persname rules="dacs">Wagner, William, 1796-1885</persname>
+            <persname rules="dacs" source="naf">Westbrook, Richard B., (Richard Brodhead)</persname>
+            <persname rules="dacs" source="naf">Willcox, Joseph</persname>
+            <genreform source="aat">Business records</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Estate records</genreform>
+            <geogname source="lcsh">Europe</geogname>
+            <genreform source="aat">Family papers</genreform>
+            <genreform source="aat">Financial records</genreform>
+            <genreform source="aat">Legal documents</genreform>
+            <subject source="lcsh">Libraries</subject>
+            <subject source="lcsh">Natural history libraries</subject>
+            <subject source="lcsh">Natural history museums</subject>
+            <geogname source="lcsh">Philadelphia (Pa.)</geogname>
+            <genreform source="aat">Reports</genreform>
+            <subject source="lcsh">Science and technology libraries</subject>
+            <subject source="lcsh">Science--Study and teaching</subject>
+            <subject source="lcsh">Shipping</subject>
+            <subject source="lcsh">Ships--Cargo</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="series">
+                <did>
+                    <unittitle>William Wagner personal papers</unittitle>
+                    <unitid>Series 1</unitid>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>Genealogical and family information including John Wagner's description of his children's births, baptism, and deaths and letter from Samuel Wagner to his aunt</unittitle>
+                        <container id="cid2001" type="Box" label="Text">1</container>
+                        <container parent="cid2001" type="Folder">1</container>
+                        <unitdate normal="1792/1862" type="inclusive">1792-1862</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Philadelphia Academy Material including two copies of "A charge delivered at a publick commencement, July 30, 1808, to the senior class of the Philadelphia Academy ..." by James Abercrombie (inscribed by the author) and Order of the Commencement in the Philadelphia Academy</unittitle>
+                        <container id="cid3001" type="Box" label="Text">1</container>
+                        <container parent="cid3001" type="Folder">2</container>
+                        <unitdate>1808 July 30</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Autobiographical notes and news clippings on the life and career of William Wagner</unittitle>
+                        <container id="cid3002" type="Box" label="Text">1</container>
+                        <container parent="cid3002" type="Folder">3</container>
+                        <unitdate>circa 1829, 1883</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Account Books and Catalog of Books arranged by William Wagner</unittitle>
+                        <container id="cid5007" type="Box" label="Text">1</container>
+                        <container parent="cid5007" type="Folder">4</container>
+                        <unitdate normal="1813/1827" type="inclusive">1813-1827</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Letters of recommendation for membership in societies including the Historical Society of Pennsylvania, Ferdinandeums of Innsruck, the Academy of Natural Sciences, and the Sorbonne</unittitle>
+                        <container id="cid5003" type="Box" label="Text">1</container>
+                        <container parent="cid5003" type="Folder">5</container>
+                        <unitdate normal="1815/1852" type="inclusive">1815-1852</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Receipts</unittitle>
+                        <container id="cid5009" type="Box" label="Text">1</container>
+                        <container parent="cid5009" type="Folder">6</container>
+                        <unitdate normal="1817/1838" type="inclusive">1817-1838</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>William Wagner and Caroline Say Moore materials including chronology of 117 S. 11th Street property, ante-nuptial agreement, certificate of divorce, tax receipts, release--heirs of Caroline M. Wagner to William Wagner, suit in equity, and William Wagner vs. Trustees for Caroline Swain</unittitle>
+                        <container id="cid5010" type="Box" label="Text">1</container>
+                        <container parent="cid5010" type="Folder">7-8</container>
+                        <unitdate normal="1824/1890" type="inclusive">1824-1890</unitdate>
+                    </did>
+                    <userestrict id="ref45">
+                        <head>Conditions Governing Use note</head>
+                        <p>Folders 7 and 8 contain the same material--Folder 7 contains photocopies of Folder 8. Due to the fragility of the papers, the staff of the Wagner Free Institute of Science requests that researchers use only the photocopies.</p>
+                    </userestrict>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>William and Louisa Binney's Wedding Trip Memorabilia, including business cards, letters of introduction (J. Ronaldson to H. English, London, J. Nanovede, Paris, and C. Pratt, Paris and V..F. Kosteletzsey to Dr. Endlichon, Vienna), map of Manchester, broadside of Thames Tunnel, and list of baggage</unittitle>
+                        <container id="cid5001" type="Box" label="Text">1</container>
+                        <container parent="cid5001" type="Folder">9</container>
+                        <unitdate normal="1841/1842" type="inclusive">1841-1842</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Correspondence and notes regarding travels during honeymoon (includes notes on Edinburgh, Hamburg, and Copenhagen)</unittitle>
+                        <container id="cid5002" type="Box" label="Text">1</container>
+                        <container parent="cid5002" type="Folder">10</container>
+                        <unitdate normal="1841/1842" type="inclusive">1841-1842</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Correspondence regarding appointments</unittitle>
+                        <container id="cid5006" type="Box" label="Text">1</container>
+                        <container parent="cid5006" type="Folder">11</container>
+                        <unitdate normal="1841/1843" type="inclusive">1841-1843</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>Memorandum of stolen articles from William Wagner's home on Turner's Lane</unittitle>
+                        <container id="cid3003" type="Box" label="Text">1</container>
+                        <container parent="cid3003" type="Folder">12</container>
+                        <unitdate>1844</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Correspondence from P.J. Hoffman to William Wagner regarding forwarding a receipt book</unittitle>
+                        <container id="cid5008" type="Box" label="Text">1</container>
+                        <container parent="cid5008" type="Folder">13</container>
+                        <unitdate>1859</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Invitations to reception for Ulysses S. Grant and invitations to lectures at the Wagner Free Institute of Science and the Closing Exercises at the Fort Edward Collegiate Institute</unittitle>
+                        <container id="cid5005" type="Box" label="Text">1</container>
+                        <container parent="cid5005" type="Folder">14</container>
+                        <unitdate normal="1865/1879" type="inclusive">1865-1879</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Descriptions of fossils deposited by J. Willcox</unittitle>
+                        <container id="cid5004" type="Box" label="Text">1</container>
+                        <container parent="cid5004" type="Folder">15</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref20" level="series">
+                <did>
+                    <unittitle>William Wagner business papers</unittitle>
+                    <unitid>Series 2</unitid>
+                </did>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Insurance Books</unittitle>
+                        <container id="cid3004" type="Box" label="Text">2</container>
+                        <container parent="cid3004" type="Folder">1</container>
+                        <unitdate>1813-1816 and 1911-1915</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Correspondence regarding the Helveticus and the Schooner Tom, payment of draft by A. Knockman, entertainments in Charleston, SC from J. Gaeland, and business prospects from William Kennard</unittitle>
+                        <container id="cid3005" type="Box" label="Text">2</container>
+                        <container parent="cid3005" type="Folder">2</container>
+                        <unitdate normal="1816/1819" type="inclusive">1816-1819</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="file">
+                    <did>
+                        <unittitle>Port of Philadelphia documents</unittitle>
+                        <container id="cid7001" type="Box" label="Text">2</container>
+                        <container parent="cid7001" type="Folder">3</container>
+                        <unitdate>1817, 1830</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Correspondence regarding local markets and Brig Superior from J. Stoney and passage to Port of Charleston, SC from J. Jefferson</unittitle>
+                        <container id="cid3007" type="Box" label="Text">2</container>
+                        <container parent="cid3007" type="Folder">4</container>
+                        <unitdate normal="1817/1823" type="inclusive">1817-1823</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Instructions from Samuel Wagner to William Wagner when serving as supercargo for Helveticus and Rousseau with miscellaneous private bills from Batavia 1817</unittitle>
+                        <container id="cid3008" type="Box" label="Text">2</container>
+                        <container parent="cid3008" type="Folder">5</container>
+                        <unitdate>1817</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Shipping documents</unittitle>
+                        <container id="cid3009" type="Box" label="Text">2</container>
+                        <container parent="cid3009" type="Folder">6</container>
+                        <unitdate normal="1817/1832" type="inclusive">1817-1832</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Various receipts for timber, lumber, arms and payment of Schooner Amelia's crew</unittitle>
+                        <container id="cid3010" type="Box" label="Text">2</container>
+                        <container parent="cid3010" type="Folder">7</container>
+                        <unitdate normal="1817/1840" type="inclusive">1817-1840</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Various lists of stores, receipts and customs papers regarding Stephen Girard's ships Helveticus and Rousseau</unittitle>
+                        <container id="cid3011" type="Box" label="Text">2</container>
+                        <container parent="cid3011" type="Folder">8</container>
+                        <unitdate normal="1817/1819" type="inclusive">1817-1819</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Various records relating to Stephen Girard's ships Helveticus and Rosseau, including lists of cargo purchased, stores, damaged goods and accounts of sales</unittitle>
+                        <container id="cid3012" type="Box" label="Text">2</container>
+                        <container parent="cid3012" type="Folder">9</container>
+                        <unitdate normal="1817/1819" type="inclusive">1817-1819</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Correspondence from Thomas Parker to William Wagner regarding imports and exports</unittitle>
+                        <container id="cid3013" type="Box" label="Text">2</container>
+                        <container parent="cid3013" type="Folder">10</container>
+                        <unitdate normal="1818/1821" type="inclusive">1818-1821</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Correspondence including letters from William Wagner to J. Snowden regarding business in North Carolina; letters from D. Crummelin and Sons to William Wagner regarding the state of the Amsterdam market and a print review and import-export list; and letters from J.E. Bellner and Company to William Wagner on business in New Bern, North Carolina and congratulations on engagement to Caroline Say (2 folders)</unittitle>
+                        <container id="cid3014" type="Box" label="Text">3</container>
+                        <container parent="cid3014" type="Folder">1-2</container>
+                        <unitdate normal="1818/1823" type="inclusive">1818-1823</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Documents relating to the partnership and dissolution of Snowden and Wagner, including some letters of agreement, private bills, extracts from books, lists of assets and debts due, and inventories (four folders)</unittitle>
+                        <container id="cid3015" type="Box" label="Text">3</container>
+                        <container parent="cid3015" type="Folder">3-6</container>
+                        <unitdate normal="1820/1826" type="inclusive">1820-1826</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Correspondence from J. Snowden to William Wagner updating on business affairs</unittitle>
+                        <container id="cid3016" type="Box" label="Text">3</container>
+                        <container parent="cid3016" type="Folder">7</container>
+                        <unitdate>1821</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Letters from William Wagner to Henry Devine of the Lennoxville Steam Saw Mill regarding conducting his lumber and shipping business in North Carolina (four folders)</unittitle>
+                        <container id="cid3017" type="Box" label="Text">3</container>
+                        <container parent="cid3017" type="Folder">8-11</container>
+                        <unitdate>1828</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Receipts for a variety of items and services, including rental properties, wages, sundries, furniture, books, clothing, grave digging and coal</unittitle>
+                        <container id="cid5011" type="Box" label="Text">3</container>
+                        <container parent="cid5011" type="Folder">12</container>
+                        <unitdate normal="1827/1832" type="inclusive">1827-1832</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Records on William Wagner's business in North Carolina including payment receipts for store goods, licenses, articles, payment receipts for crew, bills for lading, and articles and invoices for Lennoxville Steam Saw Mill</unittitle>
+                        <container id="cid3018" type="Box" label="Text">3</container>
+                        <container parent="cid3018" type="Folder">13</container>
+                        <unitdate normal="1827/1828" type="inclusive">1827-1828</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Financial records relating to business in North Carolina, including information regarding general store, lumber mill, hiring of laborers and Negroes, and shipping goods on the Schooners Amelia, Deborah and Caroline</unittitle>
+                        <container id="cid3019" type="Box" label="Text">3</container>
+                        <container parent="cid3019" type="Folder">14-17</container>
+                        <unitdate normal="1827/1828" type="inclusive">1827-1828</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Schooner Amelia payment receipts</unittitle>
+                        <container id="cid3020" type="Box" label="Text">3</container>
+                        <container parent="cid3020" type="Folder">18</container>
+                        <unitdate>1828</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Taxes, rent receipts and deeds for 11th Street properties (possibly the home of Charlotte Binney)</unittitle>
+                        <container id="cid3021" type="Box" label="Text">3</container>
+                        <container parent="cid3021" type="Folder">19</container>
+                        <unitdate normal="1829/1844" type="inclusive">1829-1844</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Receipt for services for Schooner Amelia, loan agreement between T. Wagner and William Wagner, Charlotte Binney Declaration of Trust and William Wagner Estate, including a list of lease payments on properties</unittitle>
+                        <container id="cid3022" type="Box" label="Text">3</container>
+                        <container parent="cid3022" type="Folder">20</container>
+                        <unitdate normal="1829/1845" type="inclusive">1829-1845</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>J. Chew Lawsuit</unittitle>
+                        <container id="cid3023" type="Box" label="Text">3</container>
+                        <container parent="cid3023" type="Folder">21</container>
+                        <unitdate>1834</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Shawnee County Tax Sale Certificate</unittitle>
+                        <container id="cid3024" type="Box" label="Text">3</container>
+                        <container parent="cid3024" type="Folder">22</container>
+                        <unitdate>1873</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref46" level="series">
+                <did>
+                    <unittitle>Skidmore personal papers</unittitle>
+                    <unitid>Series 3</unitid>
+                </did>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>Skidmore family correspondence to and from: D. Miller to Fanny Miller; S.T. Skidmore to A.D. Atkinson; R. and Carrie Rau to Lulu; Mary D. Purvis to Sadie Dewhurst Skidmore; J.B. Humphreys, T.W. Rounds and Company of Providence, RI, to S.T. Skidmore regarding his illness; G.M. Tuthill to S.L. Tuthill regarding family visit; to Fanny Miller from Anna Miller and Caroline Comstock; S.L. Tuthill to Charity Tuthill regarding family; Emma Dickinson to Lou Skidmore; Invitations from B. Mann and P. Mann; Aunt May to Lulu Skidmore while Lulu was visiting her grandmother Louisa Binney Wagner; S.T. Skidmore to Sadie Dewhurst Skidmore regarding wedding and European trip; and Fannie Miller to Sadie Dewhurst Skidmore on S.T. Skidmore's death</unittitle>
+                        <container id="cid3025" type="Box" label="Text">4</container>
+                        <container parent="cid3025" type="Folder">1</container>
+                        <unitdate normal="1806/1945" type="inclusive">1806-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Correspondence from S.A. Laurs to S.T. Skidmore regarding service in the Civil War</unittitle>
+                        <container id="cid3026" type="Box" label="Text">4</container>
+                        <container parent="cid3026" type="Folder">2</container>
+                        <unitdate>1864</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Letter of recommendation for Sydney T. Skidmore from H.B. Richardson, Amherst College</unittitle>
+                        <container id="cid3027" type="Box" label="Text">4</container>
+                        <container parent="cid3027" type="Folder">3</container>
+                        <unitdate>1870</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Mortgage certificate paid by Peter A.D. Widener with deed purchase of same property at 18th and Montgomery by Sadie [Dewhurst] Skidmore</unittitle>
+                        <container id="cid3028" type="Box" label="Text">4</container>
+                        <container parent="cid3028" type="Folder">4</container>
+                        <unitdate normal="1879/1887" type="inclusive">1879-1887</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>Sydney T. Skidmore's notes and invitation to reception for Ulysses S. Grant</unittitle>
+                        <container id="cid3029" type="Box" label="Text">4</container>
+                        <container parent="cid3029" type="Folder">5</container>
+                        <unitdate>circa 1879</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Louisa Binney Wagner's obituary</unittitle>
+                        <container id="cid4037" type="Box" label="Text">4</container>
+                        <container parent="cid4037" type="Folder">6</container>
+                        <unitdate>1898 May 30</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>John Roberts' notes on William Wagner</unittitle>
+                        <container id="cid4038" type="Box" label="Text">4</container>
+                        <container parent="cid4038" type="Folder">7</container>
+                        <unitdate>1965</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref54" level="series">
+                <did>
+                    <unittitle>Wagner Free Institute of Science records</unittitle>
+                    <unitid>Series 4</unitid>
+                </did>
+                <c02 id="ref55" level="subseries">
+                    <did>
+                        <unittitle>Affiliated Organizations</unittitle>
+                    </did>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding organizations including Drexel Institute of Art, Science and Industry; State of Ohio Board of Library Commissioners; American Library Association; and Free Library of Philadelphia</unittitle>
+                            <container id="cid3030" type="Box" label="Text">4</container>
+                            <container parent="cid3030" type="Folder">8</container>
+                            <unitdate normal="1896/1897" type="inclusive">1896-1897</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>12th Anniversary of the Philadelphia Mineralogical Club</unittitle>
+                            <container id="cid3031" type="Box" label="Text">4</container>
+                            <container parent="cid3031" type="Folder">9</container>
+                            <unitdate>1904 October 11</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref58" level="subseries">
+                    <did>
+                        <unittitle>Building Materials</unittitle>
+                    </did>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>Correspondence of R.B. Westbrook, Henry B. Foulke and Samuel Wagner regarding building repairs and insurance</unittitle>
+                            <container id="cid3032" type="Box" label="Text">4</container>
+                            <container parent="cid3032" type="Folder">10</container>
+                            <unitdate>1880, 1885-1886</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding estimates for museum cabinets from W.M. Nice, Jr., Mahlon Fulton &amp; Co., Karcher and Rehn Co., and Hale and Kilburn Manufacturing Company</unittitle>
+                            <container id="cid3033" type="Box" label="Text">4</container>
+                            <container parent="cid3033" type="Folder">11</container>
+                            <unitdate normal="1892/1900" type="inclusive">1892-1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>Receipts from Robert H. Jacobs, Plumber, Gas and Steam Fitter, and A.W. Farley, Tin Roofing, Heaters and Ranges</unittitle>
+                            <container id="cid3034" type="Box" label="Text">4</container>
+                            <container parent="cid3034" type="Folder">12</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding property issues</unittitle>
+                            <container id="cid3035" type="Box" label="Text">4</container>
+                            <container parent="cid3035" type="Folder">13</container>
+                            <unitdate>1900 March-May</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Correspondence from G. Hewitt to J. Willcox and Harry Brocklehurst regarding rough casting of building and repairs</unittitle>
+                            <container id="cid3036" type="Box" label="Text">4</container>
+                            <container parent="cid3036" type="Folder">14</container>
+                            <unitdate>1901</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref64" level="series">
+                    <did>
+                        <unittitle>Board Records</unittitle>
+                    </did>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>Charter of the Wagner Free Institute of Science in William Wagner's hand and Charter, Deed, and By-Laws of Cooper Union for the Advancement of Science and Art (with handwritten revisions by William Wagner)</unittitle>
+                            <container id="cid3037" type="Box" label="Text">4</container>
+                            <container parent="cid3037" type="Folder">15</container>
+                            <unitdate>1859</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Letters of Joseph Willcox to Mr. Wharton</unittitle>
+                            <container id="cid3038" type="Box" label="Text">4</container>
+                            <container parent="cid3038" type="Folder">16</container>
+                            <unitdate>1884</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Financial Records</unittitle>
+                            <container id="cid3039" type="Box" label="Text">4</container>
+                            <container parent="cid3039" type="Folder">17</container>
+                            <unitdate normal="1885/1900" type="inclusive">1885-1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Treasurer's Reports</unittitle>
+                            <container id="cid3040" type="Box" label="Text">4</container>
+                            <container parent="cid3040" type="Folder">18</container>
+                            <unitdate>1885, 1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Sydney T. Skidmore Reports</unittitle>
+                            <container id="cid3041" type="Box" label="Text">4</container>
+                            <container parent="cid3041" type="Folder">19</container>
+                            <unitdate>1886</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Memos from Thomas Montgomery to Samuel Wagner regarding bills and finances</unittitle>
+                            <container id="cid3042" type="Box" label="Text">4</container>
+                            <container parent="cid3042" type="Folder">20</container>
+                            <unitdate>1888</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>Letters from R.B. Westbrook to Thomas Montgomery regarding new books</unittitle>
+                            <container id="cid3043" type="Box" label="Text">4</container>
+                            <container parent="cid3043" type="Folder">21</container>
+                            <unitdate>1889</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>Memos from Samuel Wagner regarding specimen and estate transactions</unittitle>
+                            <container id="cid3044" type="Box" label="Text">4</container>
+                            <container parent="cid3044" type="Folder">22</container>
+                            <unitdate>1890</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>Postcard from Joseph Leidy to Joseph Willcox</unittitle>
+                            <container id="cid3045" type="Box" label="Text">4</container>
+                            <container parent="cid3045" type="Folder">23</container>
+                            <unitdate>1890</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>G. Cliff's letter regarding acceptance of appointment to Board of Trustees of the Wagner Free Institute of Science</unittitle>
+                            <container id="cid3046" type="Box" label="Text">4</container>
+                            <container parent="cid3046" type="Folder">24</container>
+                            <unitdate>1899</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding attendance at Board Meetings, including letters from Samuel Wagner, Thomas Montgomery and G. Cliff</unittitle>
+                            <container id="cid3047" type="Box" label="Text">4</container>
+                            <container parent="cid3047" type="Folder">25</container>
+                            <unitdate normal="1889/1900" type="inclusive">1889-1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Letters to Thomas Montgomery regarding portraits of Joseph Leidy, R.B. Westbrook and Mr. Baird presented to the Wagner Free Institute of Science</unittitle>
+                            <container id="cid3048" type="Box" label="Text">4</container>
+                            <container parent="cid3048" type="Folder">26</container>
+                            <unitdate normal="1900/1901" type="inclusive">1900-1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Report of the combined Committees on Museum and Library regarding increased facilities for the Free Library at the Wagner Free Institute of Science</unittitle>
+                            <container id="cid3049" type="Box" label="Text">4</container>
+                            <container parent="cid3049" type="Folder">27</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>Minutes</unittitle>
+                            <container id="cid3050" type="Box" label="Text">4</container>
+                            <container parent="cid3050" type="Folder">28</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Actuary's Reports</unittitle>
+                            <container id="cid3051" type="Box" label="Text">4</container>
+                            <container parent="cid3051" type="Folder">29</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>Committee on Administration Reports</unittitle>
+                            <container id="cid3052" type="Box" label="Text">4</container>
+                            <container parent="cid3052" type="Folder">30</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Actuary's Reports</unittitle>
+                            <container id="cid3053" type="Box" label="Text">4</container>
+                            <container parent="cid3053" type="Folder">31</container>
+                            <unitdate>1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Actuary's Report</unittitle>
+                            <container id="cid3054" type="Box" label="Text">4</container>
+                            <container parent="cid3054" type="Folder">32</container>
+                            <unitdate>1903</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref83" level="series">
+                    <did>
+                        <unittitle>Financial Records</unittitle>
+                    </did>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Receipts and correspondence regarding Rental Property Transactions</unittitle>
+                            <container id="cid3055" type="Box" label="Text">4</container>
+                            <container parent="cid3055" type="Folder">33</container>
+                            <unitdate>1865, 1889</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding Ignatius Lutz's rental</unittitle>
+                            <container id="cid3056" type="Box" label="Text">4</container>
+                            <container parent="cid3056" type="Folder">34</container>
+                            <unitdate>1887</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>Plumbing bills</unittitle>
+                            <container id="cid3057" type="Box" label="Text">4</container>
+                            <container parent="cid3057" type="Folder">35</container>
+                            <unitdate>1888</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>Correspondence from McCartney and Oler regarding Undelivered Warrant</unittitle>
+                            <container id="cid3058" type="Box" label="Text">4</container>
+                            <container parent="cid3058" type="Folder">36</container>
+                            <unitdate>1888</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>Treasurer's Account Auditing Report</unittitle>
+                            <container id="cid3059" type="Box" label="Text">4</container>
+                            <container parent="cid3059" type="Folder">37</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>Report on vacant properties</unittitle>
+                            <container id="cid3060" type="Box" label="Text">4</container>
+                            <container parent="cid3060" type="Folder">38</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="file">
+                        <did>
+                            <unittitle>Reports of the Auditing Committee</unittitle>
+                            <container id="cid3061" type="Box" label="Text">4</container>
+                            <container parent="cid3061" type="Folder">39</container>
+                            <unitdate>1901, undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Letter from Harrison S. Morrison turning down position on Finance Committee</unittitle>
+                            <container id="cid3062" type="Box" label="Text">4</container>
+                            <container parent="cid3062" type="Folder">40</container>
+                            <unitdate>1904</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Checks and Statements of rental property payments of Estate of William Wagner from J.G. Rothermel (five folders)</unittitle>
+                            <container id="cid3063" type="Box" label="Text">4</container>
+                            <container parent="cid3063" type="Folder">41-45</container>
+                            <unitdate normal="1911/1915" type="inclusive">1911-1915</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Correspondence to and from Samuel Wagner and John Rothermel regarding properties and financial statements</unittitle>
+                            <container id="cid3064" type="Box" label="Text">4</container>
+                            <container parent="cid3064" type="Folder">46</container>
+                            <unitdate>1915</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Expenditures and Income</unittitle>
+                            <container id="cid3065" type="Box" label="Text">4</container>
+                            <container parent="cid3065" type="Folder">47</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="file">
+                        <did>
+                            <unittitle>List of revised estimates</unittitle>
+                            <container id="cid3066" type="Box" label="Text">4</container>
+                            <container parent="cid3066" type="Folder">48</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref96" level="subseries">
+                    <did>
+                        <unittitle>Instruction</unittitle>
+                    </did>
+                    <c03 id="ref102" level="file">
+                        <did>
+                            <unittitle>Ticket for complimentary Fall Course at the Wagner Free Institute of Science</unittitle>
+                            <container id="cid3067" type="Box" label="Text">5</container>
+                            <container parent="cid3067" type="Folder">1</container>
+                            <unitdate>1874</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="file">
+                        <did>
+                            <unittitle>Letter from Joseph Leidy to Thomas Montgomery regarding joining the faculty</unittitle>
+                            <container id="cid3069" type="Box" label="Text">5</container>
+                            <container parent="cid3069" type="Folder">2</container>
+                            <unitdate>1888 October 6</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="file">
+                        <did>
+                            <unittitle>Drawing for a medal awarded to William H. Dall for his "investigations and writings in Paleontology"</unittitle>
+                            <container id="cid3072" type="Box" label="Text">5</container>
+                            <container parent="cid3072" type="Folder">3</container>
+                            <unitdate>1889</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="file">
+                        <did>
+                            <unittitle>Correspondence from Imogene Chandler to Thomas Montgomery regarding literary lectures</unittitle>
+                            <container id="cid3068" type="Box" label="Text">5</container>
+                            <container parent="cid3068" type="Folder">4</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding and announcements of courses for University Extension</unittitle>
+                            <container id="cid3070" type="Box" label="Text">5</container>
+                            <container parent="cid3070" type="Folder">5</container>
+                            <unitdate normal="1900/1905" type="inclusive">1900-1905</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>Faculty Meeting Minutes</unittitle>
+                            <container id="cid3071" type="Box" label="Text">5</container>
+                            <container parent="cid3071" type="Folder">6</container>
+                            <unitdate normal="1900/1901" type="inclusive">1900-1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="file">
+                        <did>
+                            <unittitle>Description of the Wagner Free Institute of Science's educational programs (written by William Wagner?)</unittitle>
+                            <container id="cid3073" type="Box" label="Text">5</container>
+                            <container parent="cid3073" type="Folder">7</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref104" level="subseries">
+                    <did>
+                        <unittitle>Publications</unittitle>
+                    </did>
+                    <c03 id="ref143" level="file">
+                        <did>
+                            <unittitle>Letters from Joseph Leidy regarding writing preface for first issue of 
+                                <emph render="italic">Transactions</emph> and other 
+                                <emph>Transactions</emph> issues</unittitle>
+                            <container id="cid5014" type="Box" label="Text">5</container>
+                            <container parent="cid5014" type="Folder">8</container>
+                            <unitdate>1886, 1889</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding 
+                                <emph render="italic">Transactions</emph>, including letters from William H. Dall of the Smithsonian Institute to Joseph Willcox and Joseph Leidy, from Joseph Leidy to Samuel Wagner, and W.S. Yeats of the Smithsonian Institute to Joseph Willcox</unittitle>
+                            <container id="cid4001" type="Box" label="Text">5</container>
+                            <container parent="cid4001" type="Folder">9</container>
+                            <unitdate normal="1887/1890" type="inclusive">1887-1890</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding Volume III of 
+                                <emph render="italic">Transactions</emph></unittitle>
+                            <container id="cid4002" type="Box" label="Text">5</container>
+                            <container parent="cid4002" type="Folder">10</container>
+                            <unitdate normal="1888/1895" type="inclusive">1888-1895</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="file">
+                        <did>
+                            <unittitle>Correspondence from William H. Dall of the Smithsonian Institute to Joseph Willcox regarding 
+                                <emph render="italic">Transactions</emph></unittitle>
+                            <container id="cid4003" type="Box" label="Text">5</container>
+                            <container parent="cid4003" type="Folder">11</container>
+                            <unitdate normal="1891/1893" type="inclusive">1891-1893</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="file">
+                        <did>
+                            <unittitle>Correspondence and Lists of foreign and American addresses for "Professor Dall's paper," which was probably published in 
+                                <emph render="italic">Transactions</emph></unittitle>
+                            <container id="cid4004" type="Box" label="Text">5</container>
+                            <container parent="cid4004" type="Folder">12</container>
+                            <unitdate>1892</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>Correspondence with the Albertype Company regarding printing plates</unittitle>
+                            <container id="cid4005" type="Box" label="Text">5</container>
+                            <container parent="cid4005" type="Folder">13</container>
+                            <unitdate>1893</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="file">
+                        <did>
+                            <unittitle>Correspondence to and from Thomas Montgomery, Joseph Leidy and Joseph Willcox regarding 
+                                <emph render="italic">Medial Lertiary</emph>, by Conrad</unittitle>
+                            <container id="cid4006" type="Box" label="Text">5</container>
+                            <container parent="cid4006" type="Folder">14</container>
+                            <unitdate>1893</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding plates for Joseph Leidy's paper in 
+                                <emph render="italic">Transactions</emph></unittitle>
+                            <container id="cid4007" type="Box" label="Text">5</container>
+                            <container parent="cid4007" type="Folder">15</container>
+                            <unitdate normal="1894/1895" type="inclusive">1894-1895</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>Correspondence from the Cleveland Public Library and J.P. Lippincott Company regarding book binding and paper samples</unittitle>
+                            <container id="cid4008" type="Box" label="Text">5</container>
+                            <container parent="cid4008" type="Folder">16</container>
+                            <unitdate normal="1896/1897" type="inclusive">1896-1897</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>Correspondence to and from M.B. Clarke, Joseph Willcox, F.A. Lucas, Thomas Montgomery, N. H. Winchell, and William Dall</unittitle>
+                            <container id="cid4009" type="Box" label="Text">5</container>
+                            <container parent="cid4009" type="Folder">17</container>
+                            <unitdate normal="1900/1901" type="inclusive">1900-1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>Correspondence from Amadeus Graham to C. Johnson regarding illustrations</unittitle>
+                            <container id="cid4010" type="Box" label="Text">5</container>
+                            <container parent="cid4010" type="Folder">18</container>
+                            <unitdate>1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>Correspondence from Ralph Arnold to Thomas Montgomery regarding monograph on California Pectin</unittitle>
+                            <container id="cid4011" type="Box" label="Text">5</container>
+                            <container parent="cid4011" type="Folder">19</container>
+                            <unitdate>1901</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref116" level="subseries">
+                    <did>
+                        <unittitle>Library</unittitle>
+                    </did>
+                    <c03 id="ref117" level="file">
+                        <did>
+                            <unittitle>Letters from the Boston Society of Natural History to William Wagner regarding outstanding fees for books purchased</unittitle>
+                            <container id="cid4012" type="Box" label="Text">5</container>
+                            <container parent="cid4012" type="Folder">20</container>
+                            <unitdate>1841</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="file">
+                        <did>
+                            <unittitle>Librarian's Reports</unittitle>
+                            <container id="cid4013" type="Box" label="Text">5</container>
+                            <container parent="cid4013" type="Folder">21</container>
+                            <unitdate>1899</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="file">
+                        <did>
+                            <unittitle>Librarian's Reports</unittitle>
+                            <container id="cid4014" type="Box" label="Text">5</container>
+                            <container parent="cid4014" type="Folder">22</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="file">
+                        <did>
+                            <unittitle>Committee on Library Report</unittitle>
+                            <container id="cid4015" type="Box" label="Text">5</container>
+                            <container parent="cid4015" type="Folder">23</container>
+                            <unitdate>1900 March 7</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="file">
+                        <did>
+                            <unittitle>Letters from the Library of Congress and the Smithsonian Institution regarding periodicals</unittitle>
+                            <container id="cid4016" type="Box" label="Text">5</container>
+                            <container parent="cid4016" type="Folder">24</container>
+                            <unitdate normal="1900/1901" type="inclusive">1900-1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>Librarian's Reports</unittitle>
+                            <container id="cid4017" type="Box" label="Text">5</container>
+                            <container parent="cid4017" type="Folder">25</container>
+                            <unitdate>1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>Letters from E. Lybrand to the Board in support of the Library and Mrs. Eastman</unittitle>
+                            <container id="cid4018" type="Box" label="Text">5</container>
+                            <container parent="cid4018" type="Folder">26</container>
+                            <unitdate>1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Correspondence with Robert Chambers, Director, regarding the Wagner Free Institute of Science's historical library collections</unittitle>
+                            <container id="cid4019" type="Box" label="Text">5</container>
+                            <container parent="cid4019" type="Folder">27</container>
+                            <unitdate normal="1967/1980" type="inclusive">1967-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>List of materials received from and sent to the Mercantile Library</unittitle>
+                            <container id="cid4020" type="Box" label="Text">5</container>
+                            <container parent="cid4020" type="Folder">28</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="file">
+                        <did>
+                            <unittitle>Lists, bills and receipts for books and William Wagner's printed request for books for the library of the Wagner Free Institute of Science</unittitle>
+                            <container id="cid4021" type="Box" label="Text">5</container>
+                            <container parent="cid4021" type="Folder">29</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref127" level="subseries">
+                    <did>
+                        <unittitle>Museum</unittitle>
+                    </did>
+                    <c03 id="ref128" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding specimens, including letters from William Wagner to William Dixon, Dr. Eberle, Samuel Wagner and J. Rogers, President of the Board of Admiralty, P.J. Roding; and P.J. Hoffman; and from V. Tineo to William Wagner</unittitle>
+                            <container id="cid4022" type="Box" label="Text">5</container>
+                            <container parent="cid4022" type="Folder">30</container>
+                            <unitdate normal="1814/1889" type="inclusive">1814-1889</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding collections, including letters from B. Silliman, T.A. Conrad, S.G. Morton (of note is the correspondence between B. Silliman and William Wagner regarding the publication of William Wagner's paper on a new species of fossils, which had been previously described by others)</unittitle>
+                            <container id="cid4025" type="Box" label="Text">5</container>
+                            <container parent="cid4025" type="Folder">31</container>
+                            <unitdate normal="1839/1840" type="inclusive">1839-1840</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="file">
+                        <did>
+                            <unittitle>Receipt for shells purchased from dealer L. Purreyss in Vienna</unittitle>
+                            <container id="cid4023" type="Box" label="Text">5</container>
+                            <container parent="cid4023" type="Folder">32</container>
+                            <unitdate>1841</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="file">
+                        <did>
+                            <unittitle>Letters from Joseph Leidy to Wagner regarding the mineralogical cabinet and fossil remains of the camerasaurus at the museum and other specimens</unittitle>
+                            <container id="cid5016" type="Box" label="Text">5</container>
+                            <container parent="cid5016" type="Folder">33</container>
+                            <unitdate normal="1886/1891" type="inclusive">1886-1891</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="file">
+                        <did>
+                            <unittitle>Letters from Joseph Leidy to Samuel Wagner regarding Wagner Free Institute of Sciences collection of Florida fossils</unittitle>
+                            <container id="cid5015" type="Box" label="Text">5</container>
+                            <container parent="cid5015" type="Folder">34</container>
+                            <unitdate>1887</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="file">
+                        <did>
+                            <unittitle>Geological Memorandum--Maryland, Virginia and North Carolina, made by Joseph Willcox</unittitle>
+                            <container id="cid4024" type="Box" label="Text">5</container>
+                            <container parent="cid4024" type="Folder">35</container>
+                            <unitdate>1889 November</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="file">
+                        <did>
+                            <unittitle>Expenses, Correspondence and Report regarding Joseph Willcox's trip to North Carolina</unittitle>
+                            <container id="cid4026" type="Box" label="Text">5</container>
+                            <container parent="cid4026" type="Folder">36</container>
+                            <unitdate>1891</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding borrowing specimens from the College of Physicians, purchasing specimen jars, and other museum matters</unittitle>
+                            <container id="cid4027" type="Box" label="Text">5</container>
+                            <container parent="cid4027" type="Folder">37</container>
+                            <unitdate normal="1891/1892" type="inclusive">1891-1892</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref134" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding acquisition of specimens, descriptions of curator positions and additions to the By-laws</unittitle>
+                            <container id="cid4028" type="Box" label="Text">5</container>
+                            <container parent="cid4028" type="Folder">38</container>
+                            <unitdate>1892</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding estimates for and photographs of crocodiles</unittitle>
+                            <container id="cid4029" type="Box" label="Text">5</container>
+                            <container parent="cid4029" type="Folder">39</container>
+                            <unitdate>1892</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding specimen loans</unittitle>
+                            <container id="cid4030" type="Box" label="Text">5</container>
+                            <container parent="cid4030" type="Folder">40</container>
+                            <unitdate normal="1894/1901" type="inclusive">1894-1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>Annual Report for the Museum</unittitle>
+                            <container id="cid4031" type="Box" label="Text">5</container>
+                            <container parent="cid4031" type="Folder">41</container>
+                            <unitdate>1899</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="file">
+                        <did>
+                            <unittitle>Museum Reports</unittitle>
+                            <container id="cid4032" type="Box" label="Text">5</container>
+                            <container parent="cid4032" type="Folder">42</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="file">
+                        <did>
+                            <unittitle>Report on the Needs of the Museum</unittitle>
+                            <container id="cid5012" type="Box" label="Text">5</container>
+                            <container parent="cid5012" type="Folder">43</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="file">
+                        <did>
+                            <unittitle>Correspondence from Thomas Montgomery to the Board regarding a guidebook and railing around the gallery</unittitle>
+                            <container id="cid4033" type="Box" label="Text">5</container>
+                            <container parent="cid4033" type="Folder">44</container>
+                            <unitdate>1900</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="file">
+                        <did>
+                            <unittitle>Museum Reports</unittitle>
+                            <container id="cid4034" type="Box" label="Text">5</container>
+                            <container parent="cid4034" type="Folder">45</container>
+                            <unitdate>1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="file">
+                        <did>
+                            <unittitle>Correspondence regarding Charles Johnson working with the Academy of Natural Sciences</unittitle>
+                            <container id="cid4035" type="Box" label="Text">5</container>
+                            <container parent="cid4035" type="Folder">46</container>
+                            <unitdate>1901</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="file">
+                        <did>
+                            <unittitle>Resignation letter of Charles Johnson as curator</unittitle>
+                            <container id="cid4036" type="Box" label="Text">5</container>
+                            <container parent="cid4036" type="Folder">47</container>
+                            <unitdate>1903 January 19</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="file">
+                        <did>
+                            <unittitle>Sketches of specimens</unittitle>
+                            <container id="cid5013" type="Box" label="Text">5</container>
+                            <container parent="cid5013" type="Folder">48</container>
+                            <unitdate>undated</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

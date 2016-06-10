@@ -1,0 +1,31 @@
+body {
+	background: lightgray;
+}
+
+
+
+.container {
+    margin: auto;
+    width: 80%;
+}
+
+.choose-another { /*button to retun to form page */
+    background: none repeat scroll 0 0 #B73819;
+    border: 1px solid;
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+
+.choose-another:hover {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid;
+    border-radius: 10px;
+    color: #B73819;
+    padding: 10px;
+}
+footer {
+	border-top: 1px dashed #b73819;
+	margin-top: 2em;
+}
