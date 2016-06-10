@@ -12,8 +12,7 @@ include ('inc/head.php');
 				<select name="collectionList" form="collections">
 				  <option value="chambers">Chambers</option>
 				  <option value="westbrook-lectureship">Westbrook Lectureship</option>
-				  <option value="Mss.SMs.Coll.2">Duane Family Collection</option>
-				  <option value="Mss.SMs.Coll.5">Albert C. Peale Papers</option>
+				 
 				   
 				</select>
 				<br />
